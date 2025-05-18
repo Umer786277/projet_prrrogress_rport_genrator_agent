@@ -1,6 +1,9 @@
 # Automated Project: Planning, Estimation, and Allocation
 
 This project demonstrates an automated system for planning, estimation, and resource allocation using the [CrewAI](https://github.com/joaomdmoura/crewAI) framework. The solution orchestrates agents to collaboratively perform planning and workload distribution tasks based on inputs and predefined logic.
+## 📊 Project Planning Output
+
+![Project Planning](project_panning_first.png)
 
 ## Features
 
@@ -45,9 +48,5 @@ Open the notebook and run each cell in order.
 
 Customize agent roles and tasks for your specific use case.
 
-
-## 📊 Project Planning Output
-
-![Project Planning](project_panning_first.png)
 
 
