@@ -4,6 +4,13 @@ This project demonstrates an automated system for planning, estimation, and reso
 ## 📊 Project Planning Output
 
 ![Project Planning](project_panning_first.png)
+![Project Planning](project_panning2.png)
+![Project Planning](project_plan2.png)
+![Project Planning](projectplan3.png)
+![Project Planning](pr3.png)
+![Project Planning](pr4.png)
+![Project Planning](pr5.png)
+
 
 ## Features
 
